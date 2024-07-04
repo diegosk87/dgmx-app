@@ -15,8 +15,8 @@ Asegúrate de tener instalados los siguientes software en tu máquina:
 1. **Clona este repositorio**
 
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
-   cd tu-repositorio
+   git clone https://github.com/diegosk87/dgmx-app
+   cd dgmx-app
 
 2. **Instal dependencias**
     Una vez en el directorio del repositorio ejecuta el siguiente comando
